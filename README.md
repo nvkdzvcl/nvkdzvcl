@@ -1,6 +1,9 @@
 <img src="um.gif" width="100%" />
 
-###          ALO 115 NGHE NE! I'M NVKDZVCL
+# Hi there ! I'm nvkdzvcl ✌️
+### Accept pain
+### Know pain
+### One who does know pain cannot possibly understand true peace!
 
 </br>
 <a href="mailto:nvkkhanh301@gmail.com">
