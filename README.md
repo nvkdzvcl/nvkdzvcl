@@ -3,7 +3,7 @@
 ###          ALO 115 NGHE NE! I'M NVKDZVCL
 
 </br>
-              [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvkhanh301@@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvkhanh301@@gmail.com)
 <!--
 **nvkdzvcl/nvkdzvcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
