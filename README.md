@@ -2,9 +2,7 @@
 
 
 # Hi there ! I'm nvkdzvcl ✌️
-### Accept pain
-### Know pain
-### One who does not know pain cannot possibly understand true peace!
+
 
 </br>
 <a href="mailto:nvkkhanh301@gmail.com">
