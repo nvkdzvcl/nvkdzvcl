@@ -25,13 +25,12 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 💡 idea → 💬 prompt → 🛠 build → 🧪 test → 🚀 ship → ↻ improve
 ```
 
-## 🧩 Project Shelf
+## 📊 GitHub Analytics & Streak
 
-| Project | Take a look |
-| :--- | :--- |
-| [AI Software Studio](https://github.com/nvkdzvcl/AI-Software-Studio) | An MVP for software development automation with multiple AI agents. |
-| [StoryMouis](https://github.com/nvkdzvcl/StoryMouis) | Explore the repository and follow its progress. |
-| [Project Java](https://github.com/nvkdzvcl/Project_Java) | A clothing store management project. |
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nvkdzvcl&amp;custom_title=Catouis%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide_border=true&amp;bg_color=181825&amp;title_color=f38ba8&amp;icon_color=cba6f7&amp;text_color=cdd6f4&amp;ring_color=f38ba8&amp;border_radius=12" alt="Catouis's GitHub stats and letter rank" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=nvkdzvcl&amp;theme=catppuccin-mocha&amp;hide_border=true&amp;border_radius=12" alt="Catouis's contribution streak, total contributions, and longest streak" width="49%" />
+</p>
 
 ## 👾 A Little Progress, Every Day
 
@@ -40,16 +39,6 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nvkdzvcl/nvkdzvcl/main/dist/pacman-contribution-graph.svg" />
   <img alt="Pac-Man moving through Catouis's GitHub contribution calendar" src="https://raw.githubusercontent.com/nvkdzvcl/nvkdzvcl/main/dist/pacman-contribution-graph.svg" width="100%" />
 </picture>
-
-<details>
-<summary><b>📊 A peek behind the commits</b></summary>
-<br />
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nvkdzvcl&amp;theme=catppuccin-mocha&amp;hide_border=true" alt="Catouis's GitHub contribution streak" width="495" />
-</p>
-
-</details>
 
 ---
 
