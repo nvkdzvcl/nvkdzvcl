@@ -31,7 +31,6 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" alt="githubparrot" height="25" />
   <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" alt="asyncparrot" height="25" />
-  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" alt="exceptionallyfastparrot" height="25" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" alt="60fpsparrot" height="25" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" alt="jumpingparrot" height="25" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" alt="opensourceparrot" height="25" />
