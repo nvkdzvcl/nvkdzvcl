@@ -1,0 +1,39 @@
+name: Update Pac-Man contribution graph
+on:
+  schedule:
+    - cron: '23 1 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/pacman.yml
+permissions:
+  contents: write
+concurrency:
+  group: pacman-contribution-graph
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate light and dark Pac-Man graphs
+        uses: abozanona/pacman-contribution-graph@7332e1de7903ab780c3692a4127a59cc13872daa
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: pacman
+      - name: Commit updated graphs
+        run: |
+          test -s dist/pacman-contribution-graph.svg
+          test -s dist/pacman-contribution-graph-dark.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh Pac-Man contribution graphs"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

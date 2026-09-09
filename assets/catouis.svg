@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Catouis</title><desc id="desc">A pastel cat on a dark background. Ideas in. Projects out.</desc>
+<defs><linearGradient id="accent"><stop stop-color="#f38ba8"/><stop offset="1" stop-color="#89b4fa"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#cba6f7" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="320" rx="24" fill="#181825"/><rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<rect x="40" y="40" width="1120" height="240" rx="16" fill="none" stroke="#313244"/>
+<circle cx="66" cy="65" r="4" fill="#f38ba8"/><circle cx="82" cy="65" r="4" fill="#f9e2af"/><circle cx="98" cy="65" r="4" fill="#a6e3a1"/>
+<text x="85" y="117" font-family="monospace" font-size="14" letter-spacing="4" fill="#a6adc8">CURIOSITY / AI / CREATION</text>
+<text x="80" y="200" font-family="Segoe UI,Arial,sans-serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#cdd6f4">Catouis<tspan fill="#f38ba8">.</tspan></text>
+<text x="85" y="242" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#a6adc8">Ideas in. Projects out.</text>
+<g transform="translate(885 75)"><circle cx="75" cy="85" r="105" fill="#cba6f7" opacity=".045"/>
+<path d="M5 85V15L48 45Q75 34 102 45L145 15V85Q150 150 75 150Q0 150 5 85Z" fill="#242438" stroke="url(#accent)" stroke-width="4" stroke-linejoin="round"/>
+<path d="M36 83L52 93L36 103M114 83L98 93L114 103" fill="none" stroke="#cdd6f4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66 115Q75 125 84 115" fill="none" stroke="#f38ba8" stroke-width="4" stroke-linecap="round"/>
+<path d="M-14 102L15 107M135 107L164 102" stroke="#cba6f7" stroke-width="3" stroke-linecap="round"/></g>
+<text x="1130" y="257" text-anchor="end" font-family="monospace" font-size="12" fill="#6c7086">MAKE SOMETHING. MAKE IT BETTER.</text>
+</svg>
