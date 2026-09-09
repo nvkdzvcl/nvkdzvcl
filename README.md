@@ -27,6 +27,33 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 
 ## 📊 GitHub Analytics & Streak
 
+<!-- Party Parrot parade · https://cultofthepartyparrot.com/ -->
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" alt="githubparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" alt="asyncparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" alt="exceptionallyfastparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" alt="60fpsparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" alt="jumpingparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" alt="opensourceparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" alt="dealwithitnowparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" alt="hypnoparrotlight" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" alt="databaseparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" alt="fixparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" alt="laptop_parrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" alt="spinningparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" alt="levitationparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" alt="meldparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" alt="slomoparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" alt="moonwalkingparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" alt="stableparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" alt="scienceparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" alt="pirateparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" alt="footballparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" alt="illuminatiparrot" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" alt="hypnoparrotdark" height="25" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" alt="mustacheparrot" height="25" />
+</p>
+
 <p align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nvkdzvcl&amp;custom_title=Catouis%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide_border=true&amp;bg_color=181825&amp;title_color=f38ba8&amp;icon_color=cba6f7&amp;text_color=cdd6f4&amp;ring_color=f38ba8&amp;border_radius=12" alt="Catouis's GitHub stats and letter rank" width="49%" />
   <img src="https://streak-stats.demolab.com?user=nvkdzvcl&amp;theme=catppuccin-mocha&amp;hide_border=true&amp;border_radius=12" alt="Catouis's contribution streak, total contributions, and longest streak" width="49%" />
