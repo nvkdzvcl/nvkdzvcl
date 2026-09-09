@@ -48,9 +48,6 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nvkdzvcl&amp;theme=catppuccin-mocha&amp;hide_border=true" alt="Catouis's GitHub contribution streak" width="495" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvkdzvcl&amp;bg_color=181825&amp;color=cdd6f4&amp;line=f38ba8&amp;point=cba6f7&amp;area=true&amp;hide_border=true" alt="Catouis's recent GitHub activity" width="100%" />
-</p>
 
 </details>
 
