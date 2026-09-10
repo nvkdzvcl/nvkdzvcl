@@ -11,7 +11,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: pacman-contribution-graph
+  group: profile-assets
   cancel-in-progress: false
 jobs:
   generate:

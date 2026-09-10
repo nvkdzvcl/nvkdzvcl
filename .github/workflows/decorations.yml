@@ -9,7 +9,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: profile-decorations
+  group: profile-assets
   cancel-in-progress: false
 jobs:
   city:
