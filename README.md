@@ -17,6 +17,8 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 - 🛠️ **My playground:** AI-assisted development and whatever I feel like building next.
 - 🌱 **My mindset:** learning by shipping — one experiment at a time.
 
+<img src="assets/divider.svg" alt="" width="100%" />
+
 ## ✨ AI Tools & Workflow
 
 <p>
@@ -28,6 +30,8 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 ```text
 💡 idea → 💬 prompt → 🛠 build → 🧪 test → 🚀 ship → ↻ improve
 ```
+
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## 📊 GitHub Analytics & Streak
 
@@ -62,6 +66,8 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
   <img src="https://streak-stats.demolab.com?user=nvkdzvcl&amp;theme=catppuccin-mocha&amp;hide_border=true&amp;border_radius=12" alt="Catouis's contribution streak, total contributions, and longest streak" width="49%" />
 </p>
 
+<img src="assets/divider.svg" alt="" width="100%" />
+
 ## 👾 A Little Progress, Every Day
 
 <picture>
@@ -70,6 +76,27 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
   <img alt="Pac-Man moving through Catouis's GitHub contribution calendar" src="https://raw.githubusercontent.com/nvkdzvcl/nvkdzvcl/main/dist/pacman-contribution-graph.svg" width="100%" />
 </picture>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<details>
+<summary><b>🏙️ My Contribution City — open to explore</b></summary>
+<br />
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="Catouis's contribution calendar as a colorful city at night" width="100%" />
+
+</details>
+
+<details>
+<summary><b>🔎 Behind the Vibes — languages & coding habits</b></summary>
+<br />
+
+<p align="center"><img src="assets/metrics.svg" alt="Catouis's GitHub activity, repository languages, and coding habits" width="700" /></p>
+
+<sub>Languages reflect repository contents; activity charts reflect available GitHub data.</sub>
+
+</details>
+
 
 <p align="center"><sub>Ideas in. Projects out. Powered by curiosity and AI.</sub></p>
+
+<img src="assets/footer.svg" alt="Pastel purple and pink waves" width="100%" />

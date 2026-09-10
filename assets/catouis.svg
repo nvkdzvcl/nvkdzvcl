@@ -7,9 +7,9 @@
 <text x="85" y="117" font-family="monospace" font-size="14" letter-spacing="4" fill="#a6adc8">CURIOSITY / AI / CREATION</text>
 <text x="80" y="200" font-family="Segoe UI,Arial,sans-serif" font-size="82" font-weight="700" letter-spacing="-3" fill="#cdd6f4">Catouis<tspan fill="#f38ba8">.</tspan></text>
 <text x="85" y="242" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#a6adc8">Ideas in. Projects out.</text>
-<g transform="translate(885 75)"><circle cx="75" cy="85" r="105" fill="#cba6f7" opacity=".045"/>
+<g transform="translate(885 75)"><path d="M130 138Q200 155 181 92" fill="none" stroke="#cba6f7" stroke-width="8" stroke-linecap="round"><animate attributeName="d" values="M130 138Q200 155 181 92;M130 138Q207 120 190 80;M130 138Q200 155 181 92" dur="3s" repeatCount="indefinite"/></path><circle cx="75" cy="85" r="105" fill="#cba6f7" opacity=".045"/>
 <path d="M5 85V15L48 45Q75 34 102 45L145 15V85Q150 150 75 150Q0 150 5 85Z" fill="#242438" stroke="url(#accent)" stroke-width="4" stroke-linejoin="round"/>
-<path d="M36 83L52 93L36 103M114 83L98 93L114 103" fill="none" stroke="#cdd6f4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 83L52 93L36 103M114 83L98 93L114 103" fill="none" stroke="#cdd6f4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="d" dur="5s" repeatCount="indefinite" values="M36 83L52 93L36 103M114 83L98 93L114 103;M36 83L52 93L36 103M114 83L98 93L114 103;M36 93L52 93L36 93M114 93L98 93L114 93;M36 83L52 93L36 103M114 83L98 93L114 103" keyTimes="0;0.92;0.96;1"/></path>
 <path d="M66 115Q75 125 84 115" fill="none" stroke="#f38ba8" stroke-width="4" stroke-linecap="round"/>
 <path d="M-14 102L15 107M135 107L164 102" stroke="#cba6f7" stroke-width="3" stroke-linecap="round"/></g>
 <text x="1130" y="257" text-anchor="end" font-family="monospace" font-size="12" fill="#6c7086">MAKE SOMETHING. MAKE IT BETTER.</text>

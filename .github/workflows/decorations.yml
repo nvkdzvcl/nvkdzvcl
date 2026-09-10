@@ -1,0 +1,53 @@
+name: Update profile city and metrics
+on:
+  schedule:
+    - cron: '43 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/decorations.yml]
+permissions:
+  contents: write
+concurrency:
+  group: profile-decorations
+  cancel-in-progress: false
+jobs:
+  city:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@9e3f937195cf840d364388973f73e3c4b3753586
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Publish city
+        run: |
+          test -s profile-3d-contrib/profile-night-rainbow.svg
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile-3d-contrib
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update contribution city"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+  metrics:
+    needs: city
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: lowlighter/metrics@366f8b9dfe3a59656c67d5dcad9950f59c9bc96d
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: assets/metrics.svg
+          base: header, activity, community, repositories
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          extras_css: |
+            svg { --color-text: #cdd6f4; --color-background: #181825; --color-fg-default: #cdd6f4; --color-canvas-default: #181825; --color-accent-fg: #cba6f7; }
