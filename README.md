@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3000&amp;pause=1200&amp;color=F38BA8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Vibe+coding.+Building+with+AI.;Learning+by+shipping.;Powered+by+curiosity+and+AI." alt="Vibe coding. Building with AI. Learning by shipping." />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nvkdzvcl&amp;label=Profile%20views&amp;color=cba6f7&amp;style=flat" alt="Catouis's profile views" />
+</p>
+
 ## 👋 Hey, I'm Catouis
 
 I turn ideas into projects with AI, curiosity, and a lot of iteration.
