@@ -87,10 +87,10 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 </details>
 
 <details>
-<summary><b>🔎 Behind the Vibes — languages & coding habits</b></summary>
+<summary><b>🔎 Behind the Vibes — languages & activity</b></summary>
 <br />
 
-<p align="center"><img src="assets/metrics.svg" alt="Catouis's GitHub activity, repository languages, and coding habits" width="700" /></p>
+<p align="center"><img src="assets/metrics.svg" alt="Catouis's public repositories, code languages, and recent activity hours" width="700" /></p>
 
 <sub>Languages reflect repository contents; activity charts reflect available GitHub data.</sub>
 
