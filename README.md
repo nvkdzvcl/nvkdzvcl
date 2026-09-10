@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/catouis.svg" alt="Catouis — Ideas in. Projects out." width="100%" />
+  <img src="assets/pixel-desk.svg" alt="Catouis — pixel cat coding at a cozy midnight desk" width="100%" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3000&amp;pause=1200&amp;color=F38BA8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Vibe+coding.+Building+with+AI.;Learning+by+shipping.;Powered+by+curiosity+and+AI." alt="Vibe coding. Building with AI. Learning by shipping." />
@@ -97,6 +97,13 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 </details>
 
 
+<details>
+<summary>Đừng bấm vào đây 👀</summary>
+<br />
+
+<p align="center"><img src="assets/secret-cat.svg" alt="Secret unlocked! You found the secret. Now go ship something." width="800" /></p>
+
+</details>
 <p align="center"><sub>Ideas in. Projects out. Powered by curiosity and AI.</sub></p>
 
 <img src="assets/footer.svg" alt="Pastel purple and pink waves" width="100%" />

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+<title id="title">Catouis — midnight coding club</title><desc id="desc">A lavender pixel cat types at a glowing computer beside a steaming coffee under a starry window.</desc>
+<defs><linearGradient id="room" x2="1" y2="1"><stop stop-color="#191829"/><stop offset="1" stop-color="#25213d"/></linearGradient><radialGradient id="glow"><stop stop-color="#89b4fa" stop-opacity=".16"/><stop offset="1" stop-color="#89b4fa" stop-opacity="0"/></radialGradient></defs>
+<style>@media (prefers-reduced-motion: reduce) { .motion {display:none} }</style>
+<rect width="1200" height="440" rx="24" fill="url(#room)"/>
+<rect x="24" y="24" width="1152" height="392" rx="14" fill="none" stroke="#48405f"/>
+<circle cx="50" cy="49" r="4" fill="#f38ba8"/><circle cx="66" cy="49" r="4" fill="#f9e2af"/><circle cx="82" cy="49" r="4" fill="#a6e3a1"/>
+<text x="1124" y="54" text-anchor="end" font-family="monospace" font-size="12" letter-spacing="2" fill="#a6adc8">CATOUIS / PERSONAL LAB</text>
+<text x="65" y="134" font-family="monospace" font-size="15" letter-spacing="4" fill="#cba6f7">MIDNIGHT CODING CLUB</text>
+<text x="60" y="224" font-family="Segoe UI,Arial,sans-serif" font-size="86" font-weight="700" letter-spacing="-3" fill="#cdd6f4">Catouis<tspan fill="#f38ba8">.</tspan></text>
+<text x="65" y="270" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#bac2de">Big ideas. Tiny pixels. Lots of AI.</text>
+<rect x="65" y="310" width="358" height="42" rx="8" fill="#302a46"/>
+<rect x="82" y="327" width="8" height="8" fill="#a6e3a1"/>
+<text x="106" y="337" font-family="monospace" font-size="15" fill="#a6e3a1">STATUS: MAKING THINGS HAPPEN</text>
+<text x="65" y="389" font-family="monospace" font-size="12" fill="#9399b2">PROMPT. BUILD. TEST. SHIP. REPEAT.</text>
+<ellipse cx="874" cy="253" rx="265" ry="169" fill="url(#glow)"/>
+<g shape-rendering="crispEdges">
+<!-- Window and skyline -->
+<rect x="920" y="84" width="188" height="152" fill="#100f20" stroke="#514568" stroke-width="8"/>
+<path d="M920 196h20v-20h24v12h24v-40h28v28h24v-16h28v40h40v36H920Z" fill="#262440"/>
+<path d="M940 188h4v4h-4zm56-24h4v4h-4zm16 24h4v4h-4zm36-12h4v4h-4zm28 32h4v4h-4z" fill="#f9e2af"/>
+<path d="M1044 108h24v8h8v24h-8v8h-24v-8h-8v-24h8Z" fill="#f9e2af"/><path d="M1060 100h20v44h-12v-8h-8Z" fill="#100f20"/>
+<path d="M950 106h4v12h-4zm-4 4h12v4h-12zm48 18h4v4h-4zm86 36h4v4h-4z" fill="#cdd6f4"/>
+<g class="motion" fill="#cba6f7"><rect x="980" y="100" width="4" height="4"><animate attributeName="opacity" values=".1;1;.1" dur="4s" repeatCount="indefinite"/></rect><rect x="1090" y="118" width="4" height="4"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></rect></g>
+<path d="M1012 84v152M920 156h188" stroke="#514568" stroke-width="6"/>
+<!-- Chair -->
+<path d="M690 272h108v80H690z" fill="#403653"/><path d="M732 352h20v32h-20zM708 380h68v8h-68z" fill="#574764"/>
+<!-- Cat body and ears -->
+<path d="M704 228h76v16h12v72H692v-72h12Z" fill="#a995ce"/>
+<path d="M680 156h28v16h56v-16h28v88h-16v16h-80v-16h-16Z" fill="#cba6f7"/>
+<path d="M688 168h12v20h-12zm84 0h12v20h-12z" fill="#f38ba8"/>
+<path d="M688 196h96v44h-96Z" fill="#d9c2f5"/>
+<path d="M704 208h8v12h-8zm52 0h8v12h-8z" fill="#242032"/>
+<g class="motion"><path d="M704 208h8v12h-8zm52 0h8v12h-8z" fill="#d9c2f5" opacity="0"><animate attributeName="opacity" values="0;0;1;0" keyTimes="0;.93;.96;1" dur="5s" repeatCount="indefinite"/></path></g>
+<path d="M728 224h12v4h-4v8h-4v-8h-4z" fill="#a66d95"/><path d="M692 228h12v4h-12zm72 0h12v4h-12z" fill="#f38ba8"/>
+<!-- Tail -->
+<path d="M694 296h-24v-12h-12v-28h12v20h12v8h12Z" fill="#cba6f7"/>
+<!-- Computer -->
+<rect x="804" y="184" width="136" height="104" fill="#514568"/>
+<rect x="812" y="192" width="120" height="84" fill="#111421"/>
+<path d="M860 288h24v20h-24zM844 304h56v8h-56z" fill="#73618d"/>
+<path d="M824 228h48v4h-48zm0 12h80v4h-80zm0 12h32v4h-32z" fill="#89b4fa"/>
+<path d="M880 228h24v4h-24zm-48 24h40v4h-40z" fill="#cba6f7"/>
+<rect x="880" y="252" width="8" height="4" fill="#a6e3a1" class="motion"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<!-- Desk -->
+<path d="M652 320h456v16H652z" fill="#9b739d"/><path d="M652 336h456v8H652z" fill="#62465f"/><path d="M676 344h12v48h-12zm396 0h12v48h-12z" fill="#785c7f"/>
+<rect x="772" y="312" width="152" height="8" fill="#635779"/><path d="M784 312h8m8 0h8m8 0h8m8 0h8m8 0h8m8 0h8m8 0h8" stroke="#cba6f7" stroke-width="4"/>
+<!-- Paws typing -->
+<path d="M752 280h16v16h28v12h-44Z" fill="#d9c2f5"><animate attributeName="d" values="M752 280h16v16h28v12h-44Z;M752 280h16v20h28v12h-44Z;M752 280h16v16h28v12h-44Z" dur=".8s" repeatCount="indefinite"/></path>
+<path d="M708 280h16v20h40v12h-56Z" fill="#cba6f7"><animate attributeName="d" values="M708 280h16v20h40v12h-56Z;M708 280h16v16h40v12h-56Z;M708 280h16v20h40v12h-56Z" dur=".8s" repeatCount="indefinite"/></path>
+<!-- Coffee -->
+<path d="M972 284h36v32h-36zm36 4h12v20h-12v-8h4v-4h-4z" fill="#f9e2af"/><rect x="976" y="284" width="28" height="4" fill="#76534e"/>
+<g class="motion" fill="none" stroke="#cdd6f4" stroke-width="3" opacity=".65"><path d="M981 275v-8h4v-8h-4v-8"/><path d="M997 275v-12h4v-8h-4v-8"/><animateTransform attributeName="transform" type="translate" values="0 2;0 -8;0 2" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;.65;.2" dur="3s" repeatCount="indefinite"/></g>
+<!-- Plant -->
+<path d="M1060 288h28l-4 32h-20Z" fill="#cba6f7"/><path d="M1072 288v-36m0 20h-12v-12h12m4 4h12v-16h-12" fill="none" stroke="#a6e3a1" stroke-width="6"/>
+</g>
+<text x="821" y="213" font-family="monospace" font-size="11" fill="#a6e3a1">~/catouis</text>
+<text x="1084" y="386" text-anchor="end" font-family="monospace" font-size="11" fill="#9399b2">ONE MORE PROMPT...</text>
+</svg>
