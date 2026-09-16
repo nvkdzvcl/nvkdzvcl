@@ -16,24 +16,24 @@
 <text x="32" y="209" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#f38ba8">Languages across my public repositories</text>
 <text x="32" y="239" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">Java</text>
 <rect x="180" y="228" width="490.00" height="9.00" rx="4" fill="#313244"/>
-<rect x="180" y="228" width="333.67" height="9.00" rx="4" fill="#cba6f7"/>
-<text x="691" y="239" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#cba6f7">68.1%</text>
+<rect x="180" y="228" width="332.26" height="9.00" rx="4" fill="#cba6f7"/>
+<text x="691" y="239" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#cba6f7">67.8%</text>
 <text x="32" y="266" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">TypeScript</text>
 <rect x="180" y="255" width="490.00" height="9.00" rx="4" fill="#313244"/>
-<rect x="180" y="255" width="109.62" height="9.00" rx="4" fill="#f38ba8"/>
-<text x="691" y="266" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#f38ba8">22.4%</text>
+<rect x="180" y="255" width="109.16" height="9.00" rx="4" fill="#f38ba8"/>
+<text x="691" y="266" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#f38ba8">22.3%</text>
 <text x="32" y="293" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">Python</text>
 <rect x="180" y="282" width="490.00" height="9.00" rx="4" fill="#313244"/>
-<rect x="180" y="282" width="33.14" height="9.00" rx="4" fill="#89b4fa"/>
-<text x="691" y="293" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#89b4fa">6.8%</text>
+<rect x="180" y="282" width="33.00" height="9.00" rx="4" fill="#89b4fa"/>
+<text x="691" y="293" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#89b4fa">6.7%</text>
 <text x="32" y="320" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">JavaScript</text>
 <rect x="180" y="309" width="490.00" height="9.00" rx="4" fill="#313244"/>
-<rect x="180" y="309" width="7.64" height="9.00" rx="4" fill="#a6e3a1"/>
-<text x="691" y="320" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#a6e3a1">1.6%</text>
+<rect x="180" y="309" width="9.27" height="9.00" rx="4" fill="#a6e3a1"/>
+<text x="691" y="320" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#a6e3a1">1.9%</text>
 <text x="32" y="347" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">CSS</text>
 <rect x="180" y="336" width="490.00" height="9.00" rx="4" fill="#313244"/>
-<rect x="180" y="336" width="2.00" height="9.00" rx="4" fill="#f9e2af"/>
-<text x="691" y="347" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#f9e2af">0.4%</text>
+<rect x="180" y="336" width="2.27" height="9.00" rx="4" fill="#f9e2af"/>
+<text x="691" y="347" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#f9e2af">0.5%</text>
 <text x="32" y="374" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">PLpgSQL</text>
 <rect x="180" y="363" width="490.00" height="9.00" rx="4" fill="#313244"/>
 <rect x="180" y="363" width="2.00" height="9.00" rx="4" fill="#94e2d5"/>
@@ -42,7 +42,7 @@
 <text x="32" y="451" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#89b4fa">When I am active · UTC+7</text>
 <rect x="38" y="466.0" width="20.00" height="85.00" rx="4" fill="#cba6f7"/>
 <text x="38" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">00</text>
-<rect x="68" y="542.5" width="20.00" height="8.50" rx="4" fill="#cba6f7"/>
+<rect x="68" y="543.2727272727273" width="20.00" height="7.73" rx="4" fill="#cba6f7"/>
 <rect x="98" y="551.0" width="20.00" height="2.00" rx="4" fill="#cba6f7"/>
 <rect x="128" y="551.0" width="20.00" height="2.00" rx="4" fill="#cba6f7"/>
 <text x="128" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">03</text>
@@ -51,27 +51,27 @@
 <rect x="218" y="551.0" width="20.00" height="2.00" rx="4" fill="#f38ba8"/>
 <text x="218" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">06</text>
 <rect x="248" y="551.0" width="20.00" height="2.00" rx="4" fill="#f38ba8"/>
-<rect x="278" y="542.5" width="20.00" height="8.50" rx="4" fill="#89b4fa"/>
+<rect x="278" y="543.2727272727273" width="20.00" height="7.73" rx="4" fill="#89b4fa"/>
 <rect x="308" y="551.0" width="20.00" height="2.00" rx="4" fill="#89b4fa"/>
 <text x="308" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">09</text>
-<rect x="338" y="491.5" width="20.00" height="59.50" rx="4" fill="#89b4fa"/>
-<rect x="368" y="466.0" width="20.00" height="85.00" rx="4" fill="#89b4fa"/>
-<rect x="398" y="508.5" width="20.00" height="42.50" rx="4" fill="#a6e3a1"/>
+<rect x="338" y="496.9090909090909" width="20.00" height="54.09" rx="4" fill="#89b4fa"/>
+<rect x="368" y="473.72727272727275" width="20.00" height="77.27" rx="4" fill="#89b4fa"/>
+<rect x="398" y="512.3636363636364" width="20.00" height="38.64" rx="4" fill="#a6e3a1"/>
 <text x="398" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">12</text>
-<rect x="428" y="534.0" width="20.00" height="17.00" rx="4" fill="#a6e3a1"/>
-<rect x="458" y="491.5" width="20.00" height="59.50" rx="4" fill="#a6e3a1"/>
-<rect x="488" y="483.0" width="20.00" height="68.00" rx="4" fill="#a6e3a1"/>
+<rect x="428" y="535.5454545454545" width="20.00" height="15.45" rx="4" fill="#a6e3a1"/>
+<rect x="458" y="496.9090909090909" width="20.00" height="54.09" rx="4" fill="#a6e3a1"/>
+<rect x="488" y="481.45454545454544" width="20.00" height="69.55" rx="4" fill="#a6e3a1"/>
 <text x="488" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">15</text>
-<rect x="518" y="525.5" width="20.00" height="25.50" rx="4" fill="#f9e2af"/>
-<rect x="548" y="508.5" width="20.00" height="42.50" rx="4" fill="#f9e2af"/>
-<rect x="578" y="491.5" width="20.00" height="59.50" rx="4" fill="#f9e2af"/>
+<rect x="518" y="527.8181818181819" width="20.00" height="23.18" rx="4" fill="#f9e2af"/>
+<rect x="548" y="512.3636363636364" width="20.00" height="38.64" rx="4" fill="#f9e2af"/>
+<rect x="578" y="489.1818181818182" width="20.00" height="61.82" rx="4" fill="#f9e2af"/>
 <text x="578" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">18</text>
-<rect x="608" y="508.5" width="20.00" height="42.50" rx="4" fill="#f9e2af"/>
-<rect x="638" y="508.5" width="20.00" height="42.50" rx="4" fill="#94e2d5"/>
-<rect x="668" y="508.5" width="20.00" height="42.50" rx="4" fill="#94e2d5"/>
+<rect x="608" y="512.3636363636364" width="20.00" height="38.64" rx="4" fill="#f9e2af"/>
+<rect x="638" y="512.3636363636364" width="20.00" height="38.64" rx="4" fill="#94e2d5"/>
+<rect x="668" y="512.3636363636364" width="20.00" height="38.64" rx="4" fill="#94e2d5"/>
 <text x="668" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">21</text>
-<rect x="698" y="474.5" width="20.00" height="76.50" rx="4" fill="#94e2d5"/>
-<rect x="728" y="491.5" width="20.00" height="59.50" rx="4" fill="#94e2d5"/>
-<text x="32" y="605" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" fill="#a6adc8">Based on 97 latest available public events; all event types, not coding hours.</text>
-<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-09-15 08:02 UTC</text>
+<rect x="698" y="481.45454545454544" width="20.00" height="69.55" rx="4" fill="#94e2d5"/>
+<rect x="728" y="496.9090909090909" width="20.00" height="54.09" rx="4" fill="#94e2d5"/>
+<text x="32" y="605" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" fill="#a6adc8">Based on 100 latest available public events; all event types, not coding hours.</text>
+<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-09-16 07:55 UTC</text>
 </svg>
