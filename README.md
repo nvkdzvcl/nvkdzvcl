@@ -16,6 +16,7 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 - 🧠 **My approach:** describe the idea, build it, try it, make it better.
 - 🛠️ **My playground:** AI-assisted development and whatever I feel like building next.
 - 🌱 **My mindset:** learning by shipping — one experiment at a time.
+- Huhu
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
