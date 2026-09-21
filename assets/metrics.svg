@@ -42,7 +42,7 @@
 <text x="32" y="451" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#89b4fa">When I am active · UTC+7</text>
 <rect x="38" y="466.0" width="20.00" height="85.00" rx="4" fill="#cba6f7"/>
 <text x="38" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">00</text>
-<rect x="68" y="545.3333333333334" width="20.00" height="5.67" rx="4" fill="#cba6f7"/>
+<rect x="68" y="546.5263157894736" width="20.00" height="4.47" rx="4" fill="#cba6f7"/>
 <rect x="98" y="551.0" width="20.00" height="2.00" rx="4" fill="#cba6f7"/>
 <rect x="128" y="551.0" width="20.00" height="2.00" rx="4" fill="#cba6f7"/>
 <text x="128" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">03</text>
@@ -51,27 +51,27 @@
 <rect x="218" y="551.0" width="20.00" height="2.00" rx="4" fill="#f38ba8"/>
 <text x="218" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">06</text>
 <rect x="248" y="551.0" width="20.00" height="2.00" rx="4" fill="#f38ba8"/>
-<rect x="278" y="545.3333333333334" width="20.00" height="5.67" rx="4" fill="#89b4fa"/>
+<rect x="278" y="546.5263157894736" width="20.00" height="4.47" rx="4" fill="#89b4fa"/>
 <rect x="308" y="551.0" width="20.00" height="2.00" rx="4" fill="#89b4fa"/>
 <text x="308" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">09</text>
-<rect x="338" y="505.6666666666667" width="20.00" height="45.33" rx="4" fill="#89b4fa"/>
-<rect x="368" y="494.3333333333333" width="20.00" height="56.67" rx="4" fill="#89b4fa"/>
-<rect x="398" y="528.3333333333334" width="20.00" height="22.67" rx="4" fill="#a6e3a1"/>
+<rect x="338" y="515.2105263157895" width="20.00" height="35.79" rx="4" fill="#89b4fa"/>
+<rect x="368" y="506.2631578947368" width="20.00" height="44.74" rx="4" fill="#89b4fa"/>
+<rect x="398" y="533.1052631578947" width="20.00" height="17.89" rx="4" fill="#a6e3a1"/>
 <text x="398" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">12</text>
-<rect x="428" y="539.6666666666666" width="20.00" height="11.33" rx="4" fill="#a6e3a1"/>
-<rect x="458" y="522.6666666666666" width="20.00" height="28.33" rx="4" fill="#a6e3a1"/>
-<rect x="488" y="517.0" width="20.00" height="34.00" rx="4" fill="#a6e3a1"/>
+<rect x="428" y="542.0526315789474" width="20.00" height="8.95" rx="4" fill="#a6e3a1"/>
+<rect x="458" y="528.6315789473684" width="20.00" height="22.37" rx="4" fill="#a6e3a1"/>
+<rect x="488" y="528.6315789473684" width="20.00" height="22.37" rx="4" fill="#a6e3a1"/>
 <text x="488" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">15</text>
-<rect x="518" y="522.6666666666666" width="20.00" height="28.33" rx="4" fill="#f9e2af"/>
-<rect x="548" y="528.3333333333334" width="20.00" height="22.67" rx="4" fill="#f9e2af"/>
-<rect x="578" y="511.3333333333333" width="20.00" height="39.67" rx="4" fill="#f9e2af"/>
+<rect x="518" y="528.6315789473684" width="20.00" height="22.37" rx="4" fill="#f9e2af"/>
+<rect x="548" y="537.578947368421" width="20.00" height="13.42" rx="4" fill="#f9e2af"/>
+<rect x="578" y="533.1052631578947" width="20.00" height="17.89" rx="4" fill="#f9e2af"/>
 <text x="578" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">18</text>
-<rect x="608" y="522.6666666666666" width="20.00" height="28.33" rx="4" fill="#f9e2af"/>
-<rect x="638" y="522.6666666666666" width="20.00" height="28.33" rx="4" fill="#94e2d5"/>
-<rect x="668" y="522.6666666666666" width="20.00" height="28.33" rx="4" fill="#94e2d5"/>
+<rect x="608" y="528.6315789473684" width="20.00" height="22.37" rx="4" fill="#f9e2af"/>
+<rect x="638" y="528.6315789473684" width="20.00" height="22.37" rx="4" fill="#94e2d5"/>
+<rect x="668" y="528.6315789473684" width="20.00" height="22.37" rx="4" fill="#94e2d5"/>
 <text x="668" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">21</text>
-<rect x="698" y="500.0" width="20.00" height="51.00" rx="4" fill="#94e2d5"/>
-<rect x="728" y="505.6666666666667" width="20.00" height="45.33" rx="4" fill="#94e2d5"/>
+<rect x="698" y="510.7368421052632" width="20.00" height="40.26" rx="4" fill="#94e2d5"/>
+<rect x="728" y="510.7368421052632" width="20.00" height="40.26" rx="4" fill="#94e2d5"/>
 <text x="32" y="605" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" fill="#a6adc8">Based on 100 latest available public events; all event types, not coding hours.</text>
-<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-09-20 07:55 UTC</text>
+<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-09-21 08:12 UTC</text>
 </svg>
