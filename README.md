@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nvkdzvcl&amp;label=Profile%20views&amp;color=cba6f7&amp;style=flat" alt="Catouis's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nvkdzvcl&amp;label=Profile%20views&amp;color=cba6f7&amp;style=flat&amp;v=2" alt="Catouis's profile views" />
 </p>
 
 ## 👋 Hey, I'm Catouis
