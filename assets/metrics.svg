@@ -62,7 +62,7 @@
 <rect x="458" y="551.0" width="20.00" height="2.00" rx="4" fill="#a6e3a1"/>
 <rect x="488" y="478.1428571428571" width="20.00" height="72.86" rx="4" fill="#a6e3a1"/>
 <text x="488" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">15</text>
-<rect x="518" y="502.42857142857144" width="20.00" height="48.57" rx="4" fill="#f9e2af"/>
+<rect x="518" y="551.0" width="20.00" height="2.00" rx="4" fill="#f9e2af"/>
 <rect x="548" y="514.5714285714286" width="20.00" height="36.43" rx="4" fill="#f9e2af"/>
 <rect x="578" y="538.8571428571429" width="20.00" height="12.14" rx="4" fill="#f9e2af"/>
 <text x="578" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">18</text>
@@ -72,6 +72,6 @@
 <text x="668" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">21</text>
 <rect x="698" y="514.5714285714286" width="20.00" height="36.43" rx="4" fill="#94e2d5"/>
 <rect x="728" y="466.0" width="20.00" height="85.00" rx="4" fill="#94e2d5"/>
-<text x="32" y="605" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" fill="#a6adc8">Based on 39 latest available public events; all event types, not coding hours.</text>
-<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-10-19 08:05 UTC</text>
+<text x="32" y="605" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" fill="#a6adc8">Based on 35 latest available public events; all event types, not coding hours.</text>
+<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-10-20 07:55 UTC</text>
 </svg>
