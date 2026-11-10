@@ -12,11 +12,11 @@
 <text x="296" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#f38ba8">3</text>
 <rect x="528" y="92" width="232.00" height="80.00" rx="10" fill="#242438"/>
 <text x="544" y="117" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" fill="#a6adc8">LANGUAGES</text>
-<text x="544" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#89b4fa">12</text>
+<text x="544" y="152" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#89b4fa">13</text>
 <text x="32" y="209" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" fill="#f38ba8">Languages across my public repositories</text>
 <text x="32" y="239" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">Java</text>
 <rect x="180" y="228" width="490.00" height="9.00" rx="4" fill="#313244"/>
-<rect x="180" y="228" width="305.79" height="9.00" rx="4" fill="#cba6f7"/>
+<rect x="180" y="228" width="305.77" height="9.00" rx="4" fill="#cba6f7"/>
 <text x="691" y="239" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#cba6f7">62.4%</text>
 <text x="32" y="266" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#cdd6f4">TypeScript</text>
 <rect x="180" y="255" width="490.00" height="9.00" rx="4" fill="#313244"/>
@@ -50,7 +50,7 @@
 <rect x="188" y="551.0" width="20.00" height="2.00" rx="4" fill="#f38ba8"/>
 <rect x="218" y="551.0" width="20.00" height="2.00" rx="4" fill="#f38ba8"/>
 <text x="218" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">06</text>
-<rect x="248" y="543.2727272727273" width="20.00" height="7.73" rx="4" fill="#f38ba8"/>
+<rect x="248" y="551.0" width="20.00" height="2.00" rx="4" fill="#f38ba8"/>
 <rect x="278" y="551.0" width="20.00" height="2.00" rx="4" fill="#89b4fa"/>
 <rect x="308" y="551.0" width="20.00" height="2.00" rx="4" fill="#89b4fa"/>
 <text x="308" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">09</text>
@@ -62,7 +62,7 @@
 <rect x="458" y="504.6363636363636" width="20.00" height="46.36" rx="4" fill="#a6e3a1"/>
 <rect x="488" y="466.0" width="20.00" height="85.00" rx="4" fill="#a6e3a1"/>
 <text x="488" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">15</text>
-<rect x="518" y="489.1818181818182" width="20.00" height="61.82" rx="4" fill="#f9e2af"/>
+<rect x="518" y="481.45454545454544" width="20.00" height="69.55" rx="4" fill="#f9e2af"/>
 <rect x="548" y="520.0909090909091" width="20.00" height="30.91" rx="4" fill="#f9e2af"/>
 <rect x="578" y="543.2727272727273" width="20.00" height="7.73" rx="4" fill="#f9e2af"/>
 <text x="578" y="573" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">18</text>
@@ -73,5 +73,5 @@
 <rect x="698" y="543.2727272727273" width="20.00" height="7.73" rx="4" fill="#94e2d5"/>
 <rect x="728" y="512.3636363636364" width="20.00" height="38.64" rx="4" fill="#94e2d5"/>
 <text x="32" y="605" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" fill="#a6adc8">Based on 58 latest available public events; all event types, not coding hours.</text>
-<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-11-09 10:21 UTC</text>
+<text x="32" y="628" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="400" fill="#a6adc8">Updated 2026-11-10 10:26 UTC</text>
 </svg>
