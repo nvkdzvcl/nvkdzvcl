@@ -63,7 +63,7 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 </p>
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nvkdzvcl&amp;custom_title=Catouis%27s%20GitHub%20Stats&amp;show_icons=true&amp;hide_border=true&amp;bg_color=181825&amp;title_color=f38ba8&amp;icon_color=cba6f7&amp;text_color=cdd6f4&amp;ring_color=f38ba8&amp;border_radius=12" alt="Catouis's GitHub stats and letter rank" width="49%" />
+  <img src="assets/stats.svg" alt="Catouis's GitHub stats and letter rank" width="49%" />
   <img src="https://streak-stats.demolab.com?user=nvkdzvcl&amp;theme=catppuccin-mocha&amp;hide_border=true&amp;border_radius=12" alt="Catouis's contribution streak, total contributions, and longest streak" width="49%" />
 </p>
 

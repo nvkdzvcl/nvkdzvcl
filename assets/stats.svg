@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t">
+<title id="t">Catouis's GitHub Stats — rank B-</title>
+<defs>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f38ba8"/><stop offset="50%" stop-color="#cba6f7"/><stop offset="100%" stop-color="#89b4fa"/>
+  </linearGradient>
+  <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f5c2e7"/><stop offset="100%" stop-color="#cba6f7"/>
+  </linearGradient>
+  <style>
+    .row{opacity:0;animation:in .6s ease forwards}
+    @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+    .arc{animation:fill 1.4s ease-out forwards}
+    @keyframes fill{from{stroke-dashoffset:251.33}}
+    .glow{animation:pulse 2.4s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.35}50%{opacity:.8}}
+    text{font-family:"Segoe UI",Ubuntu,Arial,sans-serif}
+  </style>
+</defs>
+<rect x="1" y="1" width="493" height="193" rx="14" fill="#181825" stroke="url(#border)" stroke-width="2"/>
+<text x="25" y="38" font-size="18" font-weight="700" fill="url(#border)">Catouis's GitHub Stats</text>
+<g class="row" style="animation-delay:0.15s">
+<circle cx="31" cy="67" r="5" fill="#f9e2af"/>
+<text x="45" y="72" font-size="14" font-weight="600" fill="#cdd6f4">Total Stars Earned:</text>
+<text x="225" y="72" font-size="14" font-weight="700" fill="#f9e2af">3</text>
+</g>
+<g class="row" style="animation-delay:0.30s">
+<circle cx="31" cy="92" r="5" fill="#f38ba8"/>
+<text x="45" y="97" font-size="14" font-weight="600" fill="#cdd6f4">Commits (last year):</text>
+<text x="225" y="97" font-size="14" font-weight="700" fill="#f38ba8">609</text>
+</g>
+<g class="row" style="animation-delay:0.45s">
+<circle cx="31" cy="117" r="5" fill="#cba6f7"/>
+<text x="45" y="122" font-size="14" font-weight="600" fill="#cdd6f4">Pull Requests:</text>
+<text x="225" y="122" font-size="14" font-weight="700" fill="#cba6f7">34</text>
+</g>
+<g class="row" style="animation-delay:0.60s">
+<circle cx="31" cy="142" r="5" fill="#89b4fa"/>
+<text x="45" y="147" font-size="14" font-weight="600" fill="#cdd6f4">Issues:</text>
+<text x="225" y="147" font-size="14" font-weight="700" fill="#89b4fa">16</text>
+</g>
+<g class="row" style="animation-delay:0.75s">
+<circle cx="31" cy="167" r="5" fill="#a6e3a1"/>
+<text x="45" y="172" font-size="14" font-weight="600" fill="#cdd6f4">Contributed to:</text>
+<text x="225" y="172" font-size="14" font-weight="700" fill="#a6e3a1">5</text>
+</g>
+<circle class="glow" cx="400" cy="105" r="48" fill="none" stroke="#cba6f7" stroke-width="2" stroke-opacity=".4"/>
+<circle cx="400" cy="105" r="40" fill="none" stroke="#313244" stroke-width="7"/>
+<circle class="arc" cx="400" cy="105" r="40" fill="none" stroke="url(#ring)" stroke-width="7" stroke-linecap="round" stroke-dasharray="251.33" stroke-dashoffset="177.83" transform="rotate(-90 400 105)"/>
+<text x="400" y="114" font-size="26" font-weight="800" fill="#f5c2e7" text-anchor="middle">B-</text>
+<text x="400" y="171" font-size="11" fill="#a6adc8" text-anchor="middle">top 70.8%</text>
+</svg>

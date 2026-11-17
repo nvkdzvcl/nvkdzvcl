@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/decorations.yml, scripts/profile_metrics.py]
+    paths: [.github/workflows/decorations.yml, scripts/profile_metrics.py, scripts/profile_stats.py]
 permissions:
   contents: write
 concurrency:
@@ -43,11 +43,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USER: ${{ github.repository_owner }}
+      - name: Generate stats card
+        run: python3 scripts/profile_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
       - name: Publish infographic
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/metrics.svg
+          git add assets/metrics.svg assets/stats.svg
           if ! git diff --cached --quiet; then
             git commit -m "chore: update public profile infographic"
             git pull --rebase origin main
