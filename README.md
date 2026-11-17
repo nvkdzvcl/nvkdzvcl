@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Catouis" width="100%" />
+  <!-- Christmas banner; swap back to assets/header.svg after the holidays -->
+  <img src="assets/christmas.svg" alt="Merry Christmas from Catouis — Santa's sleigh and reindeer fly past the moon over a glowing Christmas tree and a snowman" width="100%" />
 </p>
 <p align="center">
   <img src="assets/pixel-desk.svg" alt="Catouis — pixel cat coding at a cozy midnight desk" width="100%" />
