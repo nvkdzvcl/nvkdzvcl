@@ -92,7 +92,13 @@ p.append('''<defs>
   <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0%" stop-color="#f5c2e7"/><stop offset="100%" stop-color="#cba6f7"/>
   </linearGradient>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3.5"/></filter>
+  <linearGradient id="title" x1="0" x2="1" spreadMethod="reflect">
+    <stop offset="0" stop-color="#f38ba8"/><stop offset=".33" stop-color="#fab387"/><stop offset=".66" stop-color="#cba6f7"/><stop offset="1" stop-color="#89b4fa"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="6s" repeatCount="indefinite"/>
+  </linearGradient>
   <style>
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}.row{opacity:1}}
     .row{opacity:0;animation:in .6s ease forwards}
     @keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
     .arc{animation:fill 1.4s ease-out forwards}
@@ -102,8 +108,9 @@ p.append('''<defs>
     text{font-family:"Segoe UI",Ubuntu,Arial,sans-serif}
   </style>
 </defs>'''.replace('%(circ).2f', f'{circ:.2f}').replace('%%', '%'))
-p.append(f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="14" fill="#181825" stroke="url(#border)" stroke-width="2"/>')
-p.append('<text x="25" y="38" font-size="18" font-weight="700" fill="url(#border)">Catouis\'s GitHub Stats</text>')
+p.append(f'<rect x="6" y="6" width="{W-12}" height="{H-12}" rx="14" fill="none" stroke="url(#border)" stroke-width="3" filter="url(#glow)" opacity=".85"/>')
+p.append(f'<rect x="6" y="6" width="{W-12}" height="{H-12}" rx="14" fill="#181825" stroke="url(#border)" stroke-width="1.5"/>')
+p.append('<text x="25" y="38" font-size="18" font-weight="800" fill="url(#title)">Catouis\'s GitHub Stats</text>')
 for i, (label, value, color) in enumerate(rows):
     y = 72 + i * 25
     p.append(f'<g class="row" style="animation-delay:{0.15 * (i + 1):.2f}s">')
@@ -114,6 +121,8 @@ for i, (label, value, color) in enumerate(rows):
 cx, cy = 400, 105
 p.append(f'<circle class="glow" cx="{cx}" cy="{cy}" r="{radius + 8}" fill="none" stroke="#cba6f7" stroke-width="2" stroke-opacity=".4"/>')
 p.append(f'<circle cx="{cx}" cy="{cy}" r="{radius}" fill="none" stroke="#313244" stroke-width="7"/>')
+p.append(f'<circle cx="{cx}" cy="{cy}" r="{radius}" fill="none" stroke="url(#ring)" stroke-width="7" stroke-linecap="round" filter="url(#glow)" '
+         f'stroke-dasharray="{circ:.2f}" stroke-dashoffset="{circ * (1 - progress):.2f}" transform="rotate(-90 {cx} {cy})"/>')
 p.append(f'<circle class="arc" cx="{cx}" cy="{cy}" r="{radius}" fill="none" stroke="url(#ring)" stroke-width="7" stroke-linecap="round" '
          f'stroke-dasharray="{circ:.2f}" stroke-dashoffset="{circ * (1 - progress):.2f}" transform="rotate(-90 {cx} {cy})"/>')
 p.append(f'<text x="{cx}" y="{cy + 9}" font-size="26" font-weight="800" fill="#f5c2e7" text-anchor="middle">{rank}</text>')

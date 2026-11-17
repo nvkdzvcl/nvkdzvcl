@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="AI tools: Claude, ChatGPT, Codex, Antigravity">
+<defs><linearGradient id="g0" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d97757"/><stop offset="1" stop-color="#f5a37f"/></linearGradient><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10a37f"/><stop offset="1" stop-color="#74aa9c"/></linearGradient><linearGradient id="g2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8839ef"/><stop offset="1" stop-color="#cba6f7"/></linearGradient><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e66f5"/><stop offset="1" stop-color="#89b4fa"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".28"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" values="-1.2 0;1.2 0;1.2 0" keyTimes="0;.5;1" dur="3.5s" repeatCount="indefinite"/></linearGradient></defs>
+<style>.chip{animation:bob 2.4s ease-in-out infinite}@keyframes bob{50%{transform:translateY(-4px)}}
+@media (prefers-reduced-motion: reduce){.chip{animation:none}}</style>
+<g class="chip" style="animation-delay:0.0s">
+<rect x="10" y="14" width="282" height="76" rx="38" fill="url(#g0)"/>
+<rect x="10" y="14" width="282" height="76" rx="38" fill="url(#shine)"/>
+<g transform="translate(54 52)"><g stroke="#fff" stroke-width="4" stroke-linecap="round"><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(0)"/><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(45)"/><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(90)"/><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(135)"/><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(180)"/><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(225)"/><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(270)"/><line x1="0" y1="-5" x2="0" y2="-15" transform="rotate(315)"/></g></g>
+<text x="92" y="62" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#fff">Claude</text>
+<text x="272" y="40" text-anchor="end" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="13" font-weight="700" fill="#fff" opacity=".85">#1</text>
+</g><g class="chip" style="animation-delay:0.6s">
+<rect x="307" y="14" width="282" height="76" rx="38" fill="url(#g1)"/>
+<rect x="307" y="14" width="282" height="76" rx="38" fill="url(#shine)"/>
+<g transform="translate(351 52)"><path d="M-14-11h28a4 4 0 0 1 4 4v14a4 4 0 0 1-4 4H-4l-8 7v-7h-2a4 4 0 0 1-4-4V-7a4 4 0 0 1 4-4z" fill="#fff"/></g>
+<text x="389" y="62" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#fff">ChatGPT</text>
+
+</g><g class="chip" style="animation-delay:1.2s">
+<rect x="604" y="14" width="282" height="76" rx="38" fill="url(#g2)"/>
+<rect x="604" y="14" width="282" height="76" rx="38" fill="url(#shine)"/>
+<g transform="translate(648 52)"><path d="M-6-11L-16 0L-6 11M6-11L16 0L6 11" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="686" y="62" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#fff">Codex</text>
+
+</g><g class="chip" style="animation-delay:1.8s">
+<rect x="901" y="14" width="282" height="76" rx="38" fill="url(#g3)"/>
+<rect x="901" y="14" width="282" height="76" rx="38" fill="url(#shine)"/>
+<g transform="translate(945 52)"><path d="M0-16C8-8 8 4 5 10H-5C-8 4-8-8 0-16z" fill="#fff"/><circle cy="-3" r="3" fill="#1e1e2e"/><path d="M-5 10l-5 6M5 10l5 6M0 12v6" stroke="#fff" stroke-width="3" stroke-linecap="round"/></g>
+<text x="983" y="62" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#fff">Antigravity</text>
+
+</g>
+</svg>

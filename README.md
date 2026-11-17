@@ -1,40 +1,39 @@
 <p align="center">
+  <img src="assets/header.svg" alt="Hi, I'm Catouis" width="100%" />
+</p>
+<p align="center">
   <img src="assets/pixel-desk.svg" alt="Catouis — pixel cat coding at a cozy midnight desk" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=3000&amp;pause=1200&amp;color=F38BA8&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Vibe+coding.+Building+with+AI.;Learning+by+shipping.;Powered+by+curiosity+and+AI." alt="Vibe coding. Building with AI. Learning by shipping." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1200&amp;color=F5C2E7&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=Vibe+coding.+Building+with+AI.;Learning+by+shipping.;Powered+by+curiosity+and+AI." alt="Vibe coding. Building with AI. Learning by shipping." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nvkdzvcl&amp;label=Profile%20views&amp;color=cba6f7&amp;style=flat&amp;v=2" alt="Catouis's profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nvkdzvcl&amp;label=Profile%20views&amp;color=cba6f7&amp;style=for-the-badge&amp;v=2" alt="Catouis's profile views" />
+  <a href="https://github.com/nvkdzvcl?tab=followers"><img src="https://img.shields.io/github/followers/nvkdzvcl?label=Followers&amp;style=for-the-badge&amp;color=f38ba8&amp;labelColor=181825&amp;logo=github" alt="Followers" /></a>
+  <a href="https://github.com/nvkdzvcl?tab=repositories"><img src="https://img.shields.io/github/stars/nvkdzvcl?label=Stars&amp;style=for-the-badge&amp;color=f9e2af&amp;labelColor=181825&amp;affiliations=OWNER" alt="Stars" /></a>
 </p>
 
-## 👋 Hey, I'm Catouis
+<img src="assets/headers/about.svg" alt="About me" width="100%" />
 
-I turn ideas into projects with AI, curiosity, and a lot of iteration.
-
-- 🧠 **My approach:** describe the idea, build it, try it, make it better.
-- 🛠️ **My playground:** AI-assisted development and whatever I feel like building next.
-- 🌱 **My mindset:** learning by shipping — one experiment at a time.
-- Huhu
+<p align="center">
+  <img src="assets/about.svg" alt="Catouis — vibe coder and AI-assisted builder. Approach: describe, build, try, improve. Mindset: learning by shipping, one experiment at a time." width="100%" />
+</p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## ✨ AI Tools & Workflow
+<img src="assets/headers/ai.svg" alt="AI tools and tech" width="100%" />
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Codex-CBA6F7?style=for-the-badge" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-89B4FA?style=for-the-badge" alt="Antigravity" />
+<p align="center">
+  <img src="assets/ai-tools.svg" alt="AI tools: Claude, ChatGPT, Codex, Antigravity" width="100%" />
 </p>
-
-```text
-💡 idea → 💬 prompt → 🛠 build → 🧪 test → 🚀 ship → ↻ improve
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,html,css,git,github,vscode&amp;theme=dark&amp;perline=10" alt="Python, TypeScript, JavaScript, Java, C#, HTML, CSS, Git, GitHub, VS Code" />
+</p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 📊 GitHub Analytics & Streak
+<img src="assets/headers/stats.svg" alt="GitHub analytics and streak" width="100%" />
 
 <!-- Party Parrot parade · https://cultofthepartyparrot.com/ -->
 <p align="center">
@@ -69,7 +68,15 @@ I turn ideas into projects with AI, curiosity, and a lot of iteration.
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 👾 A Little Progress, Every Day
+<img src="assets/headers/projects.svg" alt="Featured projects" width="100%" />
+
+<p align="center">
+  <a href="https://github.com/nvkdzvcl?tab=repositories"><img src="assets/projects.svg" alt="Catouis's pinned and recently updated repositories" width="100%" /></a>
+</p>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/headers/progress.svg" alt="A little progress, every day" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nvkdzvcl/nvkdzvcl/main/dist/pacman-contribution-graph-dark.svg" />

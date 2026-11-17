@@ -25,6 +25,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           games: pacman
+      - name: Recolor dark graph to Catppuccin Mocha
+        run: |
+          sed -i -e 's/#161b22/#262637/gI' -e 's/#0d1117/#181825/gI' -e 's/#0e4429/#5b3f7a/gI' -e 's/#006d32/#9a6fd0/gI' -e 's/#26a641/#cba6f7/gI' -e 's/#39d353/#f5c2e7/gI' dist/pacman-contribution-graph-dark.svg
       - name: Commit updated graphs
         run: |
           test -s dist/pacman-contribution-graph.svg

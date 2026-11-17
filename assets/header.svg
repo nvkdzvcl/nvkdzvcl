@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Hi, I'm Catouis">
+<defs><linearGradient id="rb" spreadMethod="reflect" x1="0" x2="1">
+  <stop offset="0" stop-color="#f38ba8"/><stop offset=".25" stop-color="#fab387"/><stop offset=".5" stop-color="#cba6f7"/>
+  <stop offset=".75" stop-color="#89b4fa"/><stop offset="1" stop-color="#94e2d5"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="w"><stop stop-color="#cba6f7"/><stop offset=".5" stop-color="#f38ba8"/><stop offset="1" stop-color="#89b4fa"/></linearGradient></defs>
+<style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<path fill="url(#w)" opacity=".18" d="M0 0H1200V70Q900 130 600 70T0 70Z"><animate attributeName="d" dur="9s" repeatCount="indefinite"
+ values="M0 0H1200V70Q900 130 600 70T0 70Z;M0 0H1200V95Q900 35 600 95T0 95Z;M0 0H1200V70Q900 130 600 70T0 70Z"/></path>
+<path fill="url(#w)" opacity=".35" d="M0 0H1200V45Q900 95 600 45T0 45Z"><animate attributeName="d" dur="7s" repeatCount="indefinite"
+ values="M0 0H1200V45Q900 95 600 45T0 45Z;M0 0H1200V60Q900 10 600 60T0 60Z;M0 0H1200V45Q900 95 600 45T0 45Z"/></path>
+<text x="600" y="122" text-anchor="middle" font-family="Segoe UI,Ubuntu,Helvetica,Arial,sans-serif" font-size="38" font-weight="800" letter-spacing="2" fill="url(#rb)">Hi, I’m Catouis</text>
+<g fill="#f9e2af"><path d="M392 100l3 7 7 3-7 3-3 7-3-7-7-3 7-3z"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></path>
+<path d="M808 96l2 5 5 2-5 2-2 5-2-5-5-2 5-2z"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></path></g>
+</svg>
