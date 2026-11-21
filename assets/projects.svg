@@ -31,7 +31,7 @@ text{font-family:"Segoe UI",Ubuntu,Helvetica,Arial,sans-serif}
 <text x="660" y="130" font-size="16" fill="#cdd6f4">Python</text>
 <text x="810" y="130" font-size="16" fill="#f9e2af">★ 0</text>
 <text x="880" y="130" font-size="16" fill="#94e2d5">⑂ 0</text>
-<text x="1171" y="130" text-anchor="end" font-size="15" fill="#7f849c">updated 2d ago</text>
+<text x="1171" y="130" text-anchor="end" font-size="15" fill="#7f849c">updated 3d ago</text>
 </g>
 <g class="card" style="animation-delay:0.30s">
 <rect x="5" y="175" width="585" height="150" rx="16" fill="#181825" stroke="url(#a2)" stroke-width="2"/>
@@ -42,7 +42,7 @@ text{font-family:"Segoe UI",Ubuntu,Helvetica,Arial,sans-serif}
 <text x="55" y="300" font-size="16" fill="#cdd6f4">JavaScript</text>
 <text x="205" y="300" font-size="16" fill="#f9e2af">★ 0</text>
 <text x="275" y="300" font-size="16" fill="#94e2d5">⑂ 0</text>
-<text x="566" y="300" text-anchor="end" font-size="15" fill="#7f849c">updated 7d ago</text>
+<text x="566" y="300" text-anchor="end" font-size="15" fill="#7f849c">updated 8d ago</text>
 </g>
 <g class="card" style="animation-delay:0.45s">
 <rect x="610" y="175" width="585" height="150" rx="16" fill="#181825" stroke="url(#a3)" stroke-width="2"/>
@@ -53,6 +53,6 @@ text{font-family:"Segoe UI",Ubuntu,Helvetica,Arial,sans-serif}
 <text x="660" y="300" font-size="16" fill="#cdd6f4">JavaScript</text>
 <text x="810" y="300" font-size="16" fill="#f9e2af">★ 0</text>
 <text x="880" y="300" font-size="16" fill="#94e2d5">⑂ 0</text>
-<text x="1171" y="300" text-anchor="end" font-size="15" fill="#7f849c">updated 7d ago</text>
+<text x="1171" y="300" text-anchor="end" font-size="15" fill="#7f849c">updated 8d ago</text>
 </g>
 </svg>
