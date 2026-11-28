@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="t">
-<title id="t">Featured projects: RAG, DACN_RAG, CGV-FE-ADMIN, CGV-FE-USER</title><defs>
+<title id="t">Featured projects: RAG, CGV-FE-ADMIN, CGV-FE-USER, DACN_RAG</title><defs>
 <linearGradient id="a0" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f38ba8"/><stop offset="1" stop-color="#fab387"/></linearGradient>
 <linearGradient id="a1" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#cba6f7"/><stop offset="1" stop-color="#f5c2e7"/></linearGradient>
 <linearGradient id="a2" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#89b4fa"/><stop offset="1" stop-color="#94e2d5"/></linearGradient>
@@ -25,10 +25,10 @@ text{font-family:"Segoe UI",Ubuntu,Helvetica,Arial,sans-serif}
 <g class="card" style="animation-delay:0.15s">
 <rect x="610" y="5" width="585" height="150" rx="16" fill="#181825" stroke="url(#a1)" stroke-width="2"/>
 <rect x="610" y="27" width="6" height="106" rx="3" fill="url(#a1)"/>
-<text x="638" y="51" font-size="24" font-weight="800" fill="url(#a1)">DACN_RAG</text>
-<text x="638" y="87" font-size="17" fill="#bac2de">A Python project — README has the details.</text>
-<circle cx="646" cy="124" r="7" fill="#3572A5"/>
-<text x="660" y="130" font-size="16" fill="#cdd6f4">Python</text>
+<text x="638" y="51" font-size="24" font-weight="800" fill="url(#a1)">CGV-FE-ADMIN</text>
+<text x="638" y="87" font-size="17" fill="#bac2de">A JavaScript project — README has the details.</text>
+<circle cx="646" cy="124" r="7" fill="#f1e05a"/>
+<text x="660" y="130" font-size="16" fill="#cdd6f4">JavaScript</text>
 <text x="810" y="130" font-size="16" fill="#f9e2af">★ 0</text>
 <text x="880" y="130" font-size="16" fill="#94e2d5">⑂ 0</text>
 <text x="1171" y="130" text-anchor="end" font-size="15" fill="#7f849c">updated today</text>
@@ -36,7 +36,7 @@ text{font-family:"Segoe UI",Ubuntu,Helvetica,Arial,sans-serif}
 <g class="card" style="animation-delay:0.30s">
 <rect x="5" y="175" width="585" height="150" rx="16" fill="#181825" stroke="url(#a2)" stroke-width="2"/>
 <rect x="5" y="197" width="6" height="106" rx="3" fill="url(#a2)"/>
-<text x="33" y="221" font-size="24" font-weight="800" fill="url(#a2)">CGV-FE-ADMIN</text>
+<text x="33" y="221" font-size="24" font-weight="800" fill="url(#a2)">CGV-FE-USER</text>
 <text x="33" y="257" font-size="17" fill="#bac2de">A JavaScript project — README has the details.</text>
 <circle cx="41" cy="294" r="7" fill="#f1e05a"/>
 <text x="55" y="300" font-size="16" fill="#cdd6f4">JavaScript</text>
@@ -47,10 +47,10 @@ text{font-family:"Segoe UI",Ubuntu,Helvetica,Arial,sans-serif}
 <g class="card" style="animation-delay:0.45s">
 <rect x="610" y="175" width="585" height="150" rx="16" fill="#181825" stroke="url(#a3)" stroke-width="2"/>
 <rect x="610" y="197" width="6" height="106" rx="3" fill="url(#a3)"/>
-<text x="638" y="221" font-size="24" font-weight="800" fill="url(#a3)">CGV-FE-USER</text>
-<text x="638" y="257" font-size="17" fill="#bac2de">A JavaScript project — README has the details.</text>
-<circle cx="646" cy="294" r="7" fill="#f1e05a"/>
-<text x="660" y="300" font-size="16" fill="#cdd6f4">JavaScript</text>
+<text x="638" y="221" font-size="24" font-weight="800" fill="url(#a3)">DACN_RAG</text>
+<text x="638" y="257" font-size="17" fill="#bac2de">A Python project — README has the details.</text>
+<circle cx="646" cy="294" r="7" fill="#3572A5"/>
+<text x="660" y="300" font-size="16" fill="#cdd6f4">Python</text>
 <text x="810" y="300" font-size="16" fill="#f9e2af">★ 0</text>
 <text x="880" y="300" font-size="16" fill="#94e2d5">⑂ 0</text>
 <text x="1171" y="300" text-anchor="end" font-size="15" fill="#7f849c">updated today</text>
